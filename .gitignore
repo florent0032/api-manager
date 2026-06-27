@@ -1,0 +1,29 @@
+# ─── Backend ───
+backend/venv/
+backend/__pycache__/
+backend/*.db
+*.pyc
+
+# ─── Frontend ───
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*.local
+
+# ─── Env ───
+.env
+.env.local
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Logs ───
+*.log
